@@ -1,23 +1,11 @@
-```
- ___   ___   ________   ___   ___                         
-|\  \ |\  \ |\   __  \ |\  \ |\  \                        
-\ \  \\_\  \\ \  \|\  \\ \  \\_\  \                       
- \ \______  \\ \  \\\  \\ \______  \                      
-  \|_____|\  \\ \  \\\  \\|_____|\  \                     
-         \ \__\\ \_______\      \ \__\                    
-          \|__| \|_______|       \|__|                    
- ________    ________   _________                         
-|\   ___  \ |\   __  \ |\___   ___\                       
-\ \  \\ \  \\ \  \|\  \\|___ \  \_|                       
- \ \  \\ \  \\ \  \\\  \    \ \  \                        
-  \ \  \\ \  \\ \  \\\  \    \ \  \                       
-   \ \__\\ \__\\ \_______\    \ \__\                      
-    \|__| \|__| \|_______|     \|__|                      
- ________  ________   ___  ___   ________    ________     
-|\  _____\|\   __  \ |\  \|\  \ |\   ___  \ |\   ___ \    
-\ \  \__/ \ \  \|\  \\ \  \\\  \\ \  \\ \  \\ \  \_|\ \   
- \ \   __\ \ \  \\\  \\ \  \\\  \\ \  \\ \  \\ \  \ \\ \  
-  \ \  \_|  \ \  \\\  \\ \  \\\  \\ \  \\ \  \\ \  \_\\ \ 
-   \ \__\    \ \_______\\ \_______\\ \__\\ \__\\ \_______\
-    \|__|     \|_______| \|_______| \|__| \|__| \|_______|
-```
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FlyAndNotDown)
+
+# 👋 Hi, There
+
+I'm John Kindem, come from China and graduated from NUAA in 2019. I work for HUAWEI and my daily work is something about Graphics & Game.
+
+By the way, I am also goot at Web, Android, etc. When topic turn to 'what language you use', I will answer that many, but what I most like is C++ and Java.
+
+I like the feel when coding attentively. Every time I catch a new idea, I want to implement and share it.
+
+Excepting that making new friend and cooperating with them.
