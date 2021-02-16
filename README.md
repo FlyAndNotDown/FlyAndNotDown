@@ -4,7 +4,7 @@
 
 I'm John Kindem, come from China and graduated from NUAA in 2019. I work for HUAWEI and my daily work is something about Graphics & Game.
 
-By the way, I am also goot at Web, Android, etc. When topic turn to 'what language you use', I will answer that many, but what I most like is C++ and Java.
+By the way, I am also goot at Web, Android, etc. When topic turn to 'what language you use', I will answer that many, but what I most like is C++, Java and JavaScript.
 
 I like the feel when coding attentively. Every time I catch a new idea, I want to implement and share it.
 
