@@ -1,4 +1,4 @@
-# Here is me
+# Here is me 🤣
 
 ```cpp
 class Kindem {
@@ -40,8 +40,6 @@ private:
     std::string city;
 };
 ```
-
-# Github Status
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FlyAndNotDown)
 
