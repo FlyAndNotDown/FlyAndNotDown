@@ -8,7 +8,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyandnotdown&show_icons=true&locale=en&layout=compact" alt="flyandnotdown" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=flyandnotdown&show_icons=true&locale=en" alt="flyandnotdown" />
 </p>
-<p><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=flyandnotdown&" alt="flyandnotdown" /></p>
 <br/><br/>
 
 - 🔭 I’m currently working on **Huawei Laboratory 2012**
