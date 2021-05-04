@@ -8,7 +8,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyandnotdown&show_icons=true&locale=en&layout=compact" alt="flyandnotdown" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=flyandnotdown&show_icons=true&locale=en" alt="flyandnotdown" />
 </p>
-<br/><br/>
 
 - 🔭 I’m currently working on **Huawei Laboratory 2012**
 - 🌱 I’m currently learning **DirectX 12, Metal**
