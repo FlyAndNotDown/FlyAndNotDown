@@ -2,22 +2,15 @@
 <h3 align="center">A full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyandnotdown&label=Profile%20views&color=0e75b6&style=flat" alt="flyandnotdown" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyandnotdown" alt="flyandnotdown" /></a> </p>
 
 - 🔭 I’m currently working on **Huawei Laboratory 2012**
-
 - 🌱 I’m currently learning **DirectX 12, Metal**
-
-- 👯 I’m currently writing [Explosion](https://github.com/ExplosionEngine/Explosion)
-
-- 👨‍💻 All of my projects are available at [FlyAndNotDown - Repositories](https://github.com/FlyAndNotDown?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.kindem.xyz/](https://www.kindem.xyz/)
-
-- 💬 Ask me about **game, graphics, web and android**
-
-- 📫 How to reach me **johnkindem@qq.com**
+- 👯 I’m currently developing [Explosion GameEngine](https://github.com/ExplosionEngine/Explosion)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/FlyAndNotDown?tab=repositories)
+- 📝 I regularly write articles on [Kindem's Blog](https://www.kindem.xyz/)
+- 💬 Ask me about **Game, Graphics, Web and Android**
+- 📫 How to reach me **[Email](mailto:johnkindem@qq.com)**
 
 
 <h3 align="left">Languages and Tools:</h3>
