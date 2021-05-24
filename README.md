@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyandnotdown&label=Profile%20views&color=0e75b6&style=flat" alt="flyandnotdown" /> </p>
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyandnotdown&show_icons=true&locale=en&layout=compact" alt="flyandnotdown" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=flyandnotdown&show_icons=true&locale=en" alt="flyandnotdown" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyandnotdown" alt="flyandnotdown" /></a> </p>
