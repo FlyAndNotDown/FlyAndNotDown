@@ -7,7 +7,6 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyandnotdown" alt="flyandnotdown" /></a> </p>
 
-- 🔭 I’m currently working on **Huawei Laboratory 2012**
 - 🌱 I’m currently learning **DirectX 12, Metal**
 - 👯 I’m currently developing [Explosion GameEngine](https://github.com/ExplosionEngine/Explosion)
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/FlyAndNotDown?tab=repositories)
